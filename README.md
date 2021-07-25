@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nishanth M</h1>
+<h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
 <h3 align="center">A passionate in coding from India</h3>
 
-- 🌱 I’m currently learning Django  , React js , Mechine learning and Deep learning etc..
 <!--
 **JOKER-NISHANTH/JOKER-NISHANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +25,23 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<p>
+Since 14 years old , 
+I Found interest in playing Video Games , I Loved Playing Video Games 
+, so I was wondering why not learn how these things are built and made ? 
+, My Brother Had a windows 7 at the time and I Always enjoyed playing games on y8.com 
+, I didn't really focus on learning how computers work until the age of 20 
+I really got into these things I really struggled getting to the right track 
+, but I finally got into the right track and here I am always learning and dedicated 
+to learning new things from ethical hacking and web development to how Computer systems are built , 
+I am only following my passion since doing the things you love will lead to success and here I am , 
+I always look at the positive side of things , which allows me to be more creative and solve problems.
+ I Love working in a team , working in a team makes things more productive. 
+  Lastly I always love giving back , 
+ I follow one rule which I created " give to be given" simple as it sounds.
+</p>
+
+- 🌱 I’m currently learning Django  , React js , Mechine learning and Deep learning etc..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="joker-nishanth" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joker-nishanth" alt="joker-nishanth" /></a> </p>
