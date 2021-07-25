@@ -41,7 +41,7 @@ I always look at the positive side of things , which allows me to be more creati
  I follow one rule which I created " give to be given" simple as it sounds.
 </p>
 
-- 🌱 I’m currently learning Django  , React js , Mechine learning and Deep learning etc..
+- 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="joker-nishanth" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joker-nishanth" alt="joker-nishanth" /></a> </p>
