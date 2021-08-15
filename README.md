@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Since 14 years old , 
 I Found interest in playing Video Games , I Loved Playing Video Games 
 , so I was wondering why not learn how these things are built and made ? 
-, My Brother Had a windows 7 at the time and I Always enjoyed playing games on y8.com 
+, My Brother Had a Windows Vista at the time and I Always enjoyed playing games on y8.com 
 , I didn't really focus on learning how computers work until the age of 20 
 I really got into these things I really struggled getting to the right track 
 , but I finally got into the right track and here I am always learning and dedicated 
