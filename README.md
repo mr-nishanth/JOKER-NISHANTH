@@ -38,7 +38,7 @@ I am only following my passion since doing the things you love will lead to succ
 I always look at the positive side of things , which allows me to be more creative and solve problems.
  I Love working in a team , working in a team makes things more productive. 
   Lastly I always love giving back , 
- I follow one rule which I created " give to be given" simple as it sounds.
+ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
 - 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
