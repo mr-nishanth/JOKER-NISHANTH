@@ -37,15 +37,15 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 - 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth-d3v&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanth-d3v" alt="nishanth-d3v" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JOKER-NISHANTH&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOKER-NISHANTH" alt="JOKER-NISHANTH" /></a> </p>
 
 <!--
 <p align="left"> <a href="https://twitter.com/nishanth_blacky" target="blank"><img src="https://img.shields.io/twitter/follow/nishanth_blacky?logo=twitter&style=for-the-badge" alt="nishanth_blacky" /></a> </p>
 -->
 
 [![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
-[![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/nishanth-d3v)
+[![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/JOKER-NISHANTH)
 
 
 
@@ -127,13 +127,11 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanth-d3v&show_icons=true&locale=en&layout=compact" alt="nishanth-d3v" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JOKER-NISHANTH&show_icons=true&locale=en&layout=compact" alt="JOKER-NISHANTH" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth-d3v&show_icons=true&locale=en" alt="nishanth-d3v" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&locale=en" alt="JOKER-NISHANTH" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth-d3v" alt="nishanth-d3v" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOKER-NISHANTH" alt="JOKER-NISHANTH" /></p>
 
 
 <!--
