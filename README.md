@@ -1,4 +1,9 @@
-<h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
+<div align = "center"> 
+  ### Good to see you guys👋, I'm Nishanth M <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
+
+<div align = "center"> 
+
 
 <!--
 **JOKER-NISHANTH/JOKER-NISHANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -137,3 +142,5 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <!--
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 -->
+![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&layout=compact&&theme=radical)](https://github.com/JOKER-NISHANTH/github-readme-stats)
