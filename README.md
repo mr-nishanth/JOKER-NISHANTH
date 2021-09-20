@@ -139,7 +139,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 ![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&layout=compact&&theme=radical)](https://github.com/JOKER-NISHANTH/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOKER-NISHANTH" alt="JOKER-NISHANTH" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOKER-NISHANTH&show_icons=true&theme=radical" alt="JOKER-NISHANTH" /></p>
 
 
 <!--
