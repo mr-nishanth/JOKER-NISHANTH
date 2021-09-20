@@ -1,9 +1,10 @@
+
+
+
 <div align = "center"> 
- Good to see you guys👋, I'm Nishanth M <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
+  ### Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
 ![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
 </div>
-
-
 
 
 <!--
