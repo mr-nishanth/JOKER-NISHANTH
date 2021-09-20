@@ -1,4 +1,16 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
+
+
+<div align = "center"> 
+
+  ### Hey there! <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
+
+<div align = "center"> 
+
+
+<!--
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
 **JOKER-NISHANTH/JOKER-NISHANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="center">A passionate in coding from India</h3>
 Here are some ideas to get you started:
