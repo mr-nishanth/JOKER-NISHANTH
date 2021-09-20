@@ -1,11 +1,9 @@
 
 
 <div align = "center"> 
-
-  ### Hey there! <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
-
-
-<div align = "center"> 
+  <h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
+</div> 
 
 
 <!--
