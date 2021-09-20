@@ -1,8 +1,9 @@
 <div align = "center"> 
-  ### Good to see you guys👋, I'm Nishanth M <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
+ Good to see you guys👋, I'm Nishanth M <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
+</div>
 
-<div align = "center"> 
+
 
 
 <!--
@@ -132,9 +133,9 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JOKER-NISHANTH&show_icons=true&locale=en&layout=compact" alt="JOKER-NISHANTH" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&locale=en" alt="JOKER-NISHANTH" /></p>
+![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&layout=compact&&theme=radical)](https://github.com/JOKER-NISHANTH/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOKER-NISHANTH" alt="JOKER-NISHANTH" /></p>
 
@@ -142,5 +143,3 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <!--
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 -->
-![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&layout=compact&&theme=radical)](https://github.com/JOKER-NISHANTH/github-readme-stats)
