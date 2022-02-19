@@ -52,7 +52,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <p align="left"> <a href="https://twitter.com/nishanth_blacky" target="blank"><img src="https://img.shields.io/twitter/follow/nishanth_blacky?logo=twitter&style=for-the-badge" alt="nishanth_blacky" /></a> </p>
 -->
 
-[![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
+[![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=javascript:alert(1))](https://www.linkedin.com/in/nishanth-m-3628881b0/)
 [![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/nishanth-d3v)
 
 
