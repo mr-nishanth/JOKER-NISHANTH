@@ -44,7 +44,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 
 - **Another Repo : https://github.com/nishanth-d3v for projects**
 
-- CTF Player ![TryHackMe](https://tryhackme.com/p/NISHANTH)
+ CTF Player ![TryHackMe](https://tryhackme.com/p/NISHANTH)
 
  
 - 🌱 I’m currently learning Django , MERN Stack and Web Pentesting etc..
