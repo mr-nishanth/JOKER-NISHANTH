@@ -43,13 +43,14 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
 - **Another Repo : https://github.com/nishanth-d3v for projects**
-- CTF Player 
-- [![TryHackMe](https://tryhackme.com/p/NISHANTH)
-- 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
+
+- CTF Player [![TryHackMe](https://tryhackme.com/p/NISHANTH)
+ 
+- 🌱 I’m currently learning Django , MERN Stack and Web Pentesting etc..
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JOKER-NISHANTH&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOKER-NISHANTH" alt="JOKER-NISHANTH" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-nishanth" alt="mr-nishanth" /></a> </p>
 
 <!--
 <p align="left"> <a href="https://twitter.com/nishanth_blacky" target="blank"><img src="https://img.shields.io/twitter/follow/nishanth_blacky?logo=twitter&style=for-the-badge" alt="nishanth_blacky" /></a> </p>
