@@ -43,7 +43,8 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
 - **Another Repo : https://github.com/nishanth-d3v for projects**
-- CTF Player (TryHackMe)[https://tryhackme.com/p/NISHANTH]
+- CTF Player 
+- [![TryHackMe](https://tryhackme.com/p/NISHANTH)
 - 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
 
 
@@ -70,7 +71,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <p align="left">
 <a href="https://twitter.com/nishanth_blacky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanth_blacky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishanth-m-3628881b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nisha_yalu_raja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="immortal_nishanth_007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nisha_yalu_raja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nisha_yalu_raja" height="30" width="40" /></a>
   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -135,10 +136,10 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 -->
 
-![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&layout=compact&theme=radical)](https://github.com/JOKER-NISHANTH/github-readme-stats)
+![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nishanth&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)](https://github.com/mr-nishanth/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOKER-NISHANTH&show_icons=true&theme=radical" alt="JOKER-NISHANTH" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
 
 
 <!--
