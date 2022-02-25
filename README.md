@@ -44,7 +44,8 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 
 - **Another Repo : https://github.com/nishanth-d3v for projects**
 
-- CTF Player [![TryHackMe](https://tryhackme.com/p/NISHANTH)
+- CTF Player ![TryHackMe](https://tryhackme.com/p/NISHANTH)
+
  
 - 🌱 I’m currently learning Django , MERN Stack and Web Pentesting etc..
 
@@ -138,6 +139,9 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 -->
 
 ![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nishanth&show_icons=true&theme=radical)
+
+  </br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)](https://github.com/mr-nishanth/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
