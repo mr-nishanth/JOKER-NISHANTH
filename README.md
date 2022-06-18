@@ -47,6 +47,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
  CTF Player [TryHackMe](https://tryhackme.com/p/NISHANTH)
  
  <img src="https://tryhackme-badges.s3.amazonaws.com/NISHANTH.png" alt="TryHackMe">
+ 
 
  
 - 🌱 I’m currently learning Django , MERN Stack and Web Pentesting etc..
