@@ -148,7 +148,8 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)](https://github.com/mr-nishanth/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p> -->
 
 
 <!--
