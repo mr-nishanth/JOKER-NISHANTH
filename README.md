@@ -42,8 +42,6 @@ Lastly I always love giving back ,
 I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
-- **Another Repo : https://github.com/nishanth-d3v for projects**
-
  CTF Player [TryHackMe](https://tryhackme.com/p/NISHANTH)
 
 
