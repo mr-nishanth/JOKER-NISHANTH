@@ -49,7 +49,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
  
 
  
-- 🌱 I’m currently learning Django , MERN Stack and Web Pentesting etc..
+- 🌱 I’m currently learning  MERN ,MEVN Stack and Web Pentesting(OSCP) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
@@ -74,7 +74,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishanth_blacky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanth_blacky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishanth-m-3628881b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-nishanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nisha_yalu_raja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nisha_yalu_raja" height="30" width="40" /></a>
   
 
